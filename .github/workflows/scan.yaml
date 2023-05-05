@@ -48,5 +48,5 @@ jobs:
 
 
     - name: Build Python project
-      run: python mlops.ipynb build
+      run: python MLOPS_ClassActivity.ipynb build
       
